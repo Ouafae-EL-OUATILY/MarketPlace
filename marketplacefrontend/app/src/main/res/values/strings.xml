@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">market-place-frontend</string>
+    <string name="not_registered_tv">Don\'t have an account?</string>
+    <string name="login_btn_txt">Login</string>
+    <string name="email_address_tv">Email Address</string>
+    <string name="password_tv">Password</string>
+    <string name="example_mail_tv">example@mail.com</string>
+    <string name="password_stars">*************</string>
+    <string name="remember_me_tv">Remember Me</string>
+    <string name="forgot_password_tv">Forgot Password?</string>
+    <string name="signup_tv">SignUp</string>
+    <string name="please_login_tv">Please Login to continue</string>
+    <string name="login_tv">Login</string>
+    <string name="name_example">Jude Bellingham</string>
+    <string name="already_have_an_account_tv">Already have an account?</string>
+    <string name="log_in_tv">Log in</string>
+    <string name="register_tv">Register</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="cart_label">Cart (%d)</string>
+</resources>
